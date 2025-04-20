@@ -1,7 +1,3 @@
-## FlappyBird
-Simple flappy bird recreation in Swift.
-Utilizes `SpriteKit` and `UIKit` Frameworks. 
+Flappy bird 
 
-## Assets
-Assets used [here](https://github.com/samuelcust/flappy-bird-assets)
 
